@@ -71,7 +71,16 @@ This project performs an end-to-end exploratory data analysis on malaria trends 
 ---
 
 ## 🗂️ Repository Structure
-
+malaria-in-africa-eda/
+│
+├── Malaria_in_Africa_EDA.ipynb    # Full Python notebook
+├── nigeria_trend.png               # Nigeria malaria trend chart
+├── kpi_cards.png                   # KPI dashboard
+├── continental_comparison.png       # Top 15 countries comparison
+├── rural_vs_malaria.png             # Rural population vs malaria
+├── water_vs_malaria.png            # Water accessibility vs malaria
+├── heatmap.png                     # Correlation heatmap
+└── README.md
 ---
 
 ## 💡 Recommendations
