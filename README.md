@@ -50,6 +50,24 @@ This project performs an end-to-end exploratory data analysis on malaria trends 
 
 
 
+
+![Continental Comparison](continental_comparison.png)
+
+
+
+
+![Rural vs Malaria](rural_vs_malaria.png)
+
+
+
+
+![Water vs Malaria](water_vs_malaria.png)
+
+
+
+
+![Heatmap](heatmap.png)
+
 ---
 
 ## 🗂️ Repository Structure
@@ -58,6 +76,9 @@ malaria-in-africa-eda/
 ├── Malaria_in_Africa_EDA.ipynb    # Full Python notebook
 ├── nigeria_trend.png               # Nigeria malaria trend chart
 ├── kpi_cards.png                   # KPI dashboard
+├── continental_comparison.png       # Top 15 countries comparison
+├── rural_vs_malaria.png             # Rural population vs malaria
+├── water_vs_malaria.png   
 ├── heatmap.png                     # Correlation heatmap
 └── README.md
 ---
@@ -74,6 +95,6 @@ malaria-in-africa-eda/
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/victoria-okafor)
+- 💼 [LinkedIn](https://www.linkedin.com/in/victoria-okafor-4720a02b8)
 - 🐙 [GitHub](https://github.com/vicokafor)
 - 📊 [Kaggle](https://www.kaggle.com/vicokafor)
