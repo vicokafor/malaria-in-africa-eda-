@@ -78,7 +78,7 @@ malaria-in-africa-eda/
 ├── kpi_cards.png                   # KPI dashboard
 ├── continental_comparison.png       # Top 15 countries comparison
 ├── rural_vs_malaria.png             # Rural population vs malaria
-├── water_vs_malaria.png   
+├── water_vs_malaria.png            # Water accessibility vs malaria
 ├── heatmap.png                     # Correlation heatmap
 └── README.md
 ---
